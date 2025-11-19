@@ -5,6 +5,6 @@ vspeed = -vspeed;
 // This gives the player more control over the ball's direction.
 var paddle_center = other.x;
 var hit_position = x - paddle_center;
-hspeed += hit_position * 0.1;
+hspeed += hit_position * 0.2;
 
 audio_play_sound(sfx_boop, 1, false);
