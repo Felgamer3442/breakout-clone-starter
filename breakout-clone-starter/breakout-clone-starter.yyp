@@ -50,6 +50,8 @@
     {"id":{"name":"sfx_break","path":"sounds/sfx_break/sfx_break.yy",},},
     {"id":{"name":"sfx_lose_life","path":"sounds/sfx_lose_life/sfx_lose_life.yy",},},
     {"id":{"name":"Sound4","path":"sounds/Sound4/Sound4.yy",},},
+    {"id":{"name":"Sound5","path":"sounds/Sound5/Sound5.yy",},},
+    {"id":{"name":"Sound6","path":"sounds/Sound6/Sound6.yy",},},
     {"id":{"name":"spr_ball","path":"sprites/spr_ball/spr_ball.yy",},},
     {"id":{"name":"spr_brick_1","path":"sprites/spr_brick_1/spr_brick_1.yy",},},
     {"id":{"name":"spr_brick_2","path":"sprites/spr_brick_2/spr_brick_2.yy",},},
